@@ -1,0 +1,37 @@
+{
+  "name": "tradecrate",
+  "version": "1.0.0",
+  "description": "A simple tool for viewing charts on a grid.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the8thbit/tradecrate.git"
+  },
+  "keywords": [
+    "tradecrate",
+    "charts",
+    "grid",
+    "trading",
+    "tradingview",
+    "cryptocurrency",
+    "stocks",
+    "finance"
+  ],
+  "author": "the8thbit",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/the8thbit/tradecrate/issues"
+  },
+  "homepage": "https://github.com/the8thbit/tradecrate#readme"
+}
